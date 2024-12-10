@@ -1,4 +1,4 @@
-# 14-day-Polyglot-Challenge
+# Holiday 14-day-Polyglot-Challenge
 Want to join me in a 14-day Polyglot Challenge? No ice buckets or dance moves required—just some coding skills and creativity!
 
 Here’s the deal: For 14 days, write a bit of code every evening for [Project Euler](https://www.hackerrank.com/contests/projecteuler/challenges)—a collection of 200+ math-inspired problems ranging from beginner-friendly to downright tricky. The twist? You can’t use the same programming language twice.
