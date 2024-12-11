@@ -21,6 +21,7 @@ For example, I might tackle "Multiples of 3 and 5" in Java, "Summation of Primes
 
 ## Results so far
 
-| Day | Title                                  | Languaga | IDE      | Notes                                            | Link                                                  |
-|-----|----------------------------------------|----------|----------|--------------------------------------------------|-------------------------------------------------------|
-| 1   | Project Euler #1: Multiples of 3 and 5 | Java 8   | IntelliJ | Probably everything will be a math formula. Duh! | [Solution.java](2024-euler/1-multiples/Solution.java) |
+| Day | Title                                                                                                          | Language | IDE         | Notes                                                                                    | Link                                                      |
+|-----|----------------------------------------------------------------------------------------------------------------|----------|-------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| 1   | [Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | Java 8   | IntelliJ    | Probably everything will be a math formula. Duh!                                         | [Solution.java](2024-euler/1-multiples/Solution.java)     |
+| 2   | [Project Euler #5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005)    | Python 3 | PyCharm Pro | I suggest to put the results of the first 15ish in a spreadsheet and look for a pattern. | [solution.py](2024-euler/5-smallest-multiple/solution.py) |
